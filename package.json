@@ -20,7 +20,8 @@
   "homepage": "https://github.com/goliatone/simple-session-manager#readme",
   "dependencies": {
     "gextend": "^0.3.0",
-    "redis": "^2.8.0"
+    "redis": "^2.8.0",
+    "urlsafe-base64": "^1.0.0"
   },
   "devDependencies": {
     "bogota": "^2.0.4",
