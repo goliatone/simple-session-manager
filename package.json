@@ -18,7 +18,9 @@
     "url": "https://github.com/goliatone/simple-session-manager/issues"
   },
   "homepage": "https://github.com/goliatone/simple-session-manager#readme",
-  "dependencies": {},
+  "dependencies": {
+    "gextend": "^0.3.0"
+  },
   "devDependencies": {
     "bogota": "^2.0.4",
     "nyc": "^10.3.2",
