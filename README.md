@@ -1,6 +1,8 @@
 ## Simple Session Manager
 
-This is a sample project. To get started:
+Simple generic session manager.
+
+To get started:
 
 ```
 $ npm i simple-session-manager
